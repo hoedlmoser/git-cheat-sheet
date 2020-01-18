@@ -13,3 +13,15 @@ git reset --mixed origin/master
 git checkout -- LICENSE
 git checkout -- README.md
 ```
+
+## commit
+
+```
+git commit -am "<nice comment>"
+```
+
+## push (upload)
+
+```
+git push
+```
