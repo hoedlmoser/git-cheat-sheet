@@ -14,6 +14,11 @@ git checkout -- LICENSE
 git checkout -- README.md
 ```
 
+## add
+```
+git add <somefile(s)>
+```
+
 ## commit
 
 ```
